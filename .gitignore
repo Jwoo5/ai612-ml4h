@@ -9,5 +9,9 @@ __pycache__/
 *.png
 *.jpg
 *.tar.gz
+*.tsv
+*.vocab
+*.pt
+*.pth
 
 .vscode/settings.json
