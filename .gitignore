@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.pickle
+*.pkl
+*.npy
+*.txt
+*.png
+*.jpg
+*.tar.gz
+
+.vscode/settings.json
